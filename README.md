@@ -99,7 +99,7 @@
 ### 🧁 Soft-Délice — E-commerce traiteur & pâtisserie
 `Next.js 16 · tRPC 11 · TanStack Query v5 · Prisma 7 · PostgreSQL · Stripe · Vitest`
 
-[![Site](https://img.shields.io/badge/🔗%20Voir%20le%20site-softdelice.fr-22C55E?style=flat-square)](https://softdelice.fr)
+[![Site](https://img.shields.io/badge/🔗%20Voir%20le%20site-soft--delice.fr-22C55E?style=flat-square)](https://soft-delice.fr)
 
 > **32 commits · 12 models** — ma stack la plus récente & industrialisée
 
@@ -110,6 +110,8 @@
 ### 🎮 DevoirXP — Gamification de tâches & objectifs *(nom de travail)*
 `Next.js 15 · Prisma · PostgreSQL · Web Push · GitHub Actions`
 
+[![Site](https://img.shields.io/badge/🔗%20Voir%20le%20site-devoirxp.vercel.app-22C55E?style=flat-square)](https://devoirxp.vercel.app)
+
 > **8 models** — notifications push + tâches planifiées automatisées
 
 - 🎯 Transforme les **tâches / choses à faire** en jeu : points, niveaux & récompenses
@@ -118,6 +120,8 @@
 
 ### 📖 Muzlife — Apprentissage du Coran *(projet d'équipe)*
 `Next.js 15 · Prisma 7 · BetterAuth · PostgreSQL`
+
+[![Site](https://img.shields.io/badge/🔗%20Voir%20le%20site-muzlife.fr-22C55E?style=flat-square)](https://muzlife.fr)
 
 > **123 commits sur 139** — dev principal
 
