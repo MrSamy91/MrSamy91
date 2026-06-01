@@ -21,7 +21,7 @@
 
 - 🔭 Développeur **fullstack** spécialisé **Next.js / React / TypeScript**, du design system jusqu'à la prod.
 - 🏗️ Je construis des **produits complets de A à Z** : architecture, BDD, API type-safe, front, paiement, déploiement, SEO, maintenance.
-- 🎓 Formé à **Holberton School** (fullstack + module cybersécurité), puis autodidacte intensif.
+- 🎓 **Holberton School** — cursus Développeur Fullstack, **fraîchement diplômé en 2026**. Puis autodidacte intensif.
 - 💼 **Freelance** — j'ai livré pour 8 secteurs : restaurants, salons, VTC, immobilier, associations, startups…
 - 🧱 Dernier gros morceau : **BookingFlow**, un SaaS multi-tenant (44 models Prisma, 21 routers tRPC, paiement Stripe Connect, temps réel).
 - 📍 Région parisienne (92) 🇫🇷 · télétravail & sur site.
@@ -68,7 +68,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
@@ -93,11 +92,23 @@
 - Menu dynamique (80 plats), blog rich text, programme de fidélité multi-paliers
 - Événements & réservations, campagnes email, QR codes clients, avis modérés, dashboard analytics
 
-### 📦 Livraison Express — Marketplace P2P *(PWA)*
-`Next.js 16 · PostgreSQL · Stripe Connect · Mapbox`
+### 🧁 Soft-Délice — E-commerce traiteur & pâtisserie
+`Next.js 16 · tRPC 11 · TanStack Query v5 · Prisma 7 · PostgreSQL · Stripe · Vitest`
 
-- PWA installable & offline, paiement **escrow** via Stripe Connect
-- Géolocalisation temps réel (Mapbox), validation par PIN, photos géotaguées, KYC livreurs, gestion des litiges
+> **32 commits · 12 models** — ma stack la plus récente & industrialisée
+
+- 🛒 Catalogue produits + commande en ligne (paiement **Stripe**)
+- 📝 Blog avec éditeur rich text **Tiptap**
+- ✅ Architecture **testée** (Vitest unit + intégration), dev local **dockerisé** (Docker Compose)
+
+### 🎮 DevoirXP — Gamification des devoirs *(enfants)*
+`Next.js 15 · Prisma · PostgreSQL · Web Push · GitHub Actions`
+
+> **8 models** — notifications push + tâches planifiées automatisées
+
+- 👨‍👩‍👧 Rôles **parent / enfant**, attribution de points & récompenses
+- 🔔 Notifications **Web Push** (rappels de devoirs)
+- ⏰ Tâches planifiées via **cron GitHub Actions** · dashboards de suivi (Recharts)
 
 ### 📖 Muzlife — Apprentissage du Coran *(projet d'équipe)*
 `Next.js 15 · Prisma 7 · BetterAuth · PostgreSQL`
@@ -107,13 +118,13 @@
 - Audio multi-récitateurs, modes d'étude (lecture / mémorisation / révision)
 - Suivi de progression, streaks & quiz, horaires de prière (API Aladhan)
 
-### 🏠 Avantage Immobilier — Plateforme immobilière
+### 🏠 Avantage Immobilier — Site vitrine pour agence immobilière
 `Next.js 16 · Prisma · PostgreSQL/Neon · Resend · Framer Motion`
 
 > **128 commits** *(112 de moi — dev principal)* · synchronisation XML automatisée
 
-- 🏘️ Annonces dynamiques : vente, location, gestion locative
-- 🔄 **Synchronisation XML automatique** des annonces (flux portails immo)
+- 🏢 Site vitrine pour booster la **visibilité d'une agence immobilière**
+- 🏘️ Annonces (vente / location) avec **synchronisation XML automatique**
 - 🔎 Filtres avancés & recherche multicritères
 - ✉️ Formulaire de contact + emails transactionnels (Resend)
 - 📈 Suivi de trafic Google Analytics 4 · animations Framer Motion
@@ -122,10 +133,9 @@
 
 | Projet | Secteur | Highlights |
 |--------|---------|------------|
-| **Soft-Délice** | Traiteur e-commerce | tRPC, blog Tiptap, tests Vitest, Docker Compose |
+| **Livraison Express** | Livraison P2P (PWA) | Escrow Stripe Connect, géoloc Mapbox, KYC livreurs |
 | **Quarter-Fusion** | Restaurant POS | Commandes + **imprimante thermique Epson WiFi** |
 | **Cophairstyle** | Salon de coiffure | Booking, fidélité, staff, analytics · 19 020 LOC |
-| **DevoirXP** | Gamification enfants | Points, **Web Push**, cron GitHub Actions |
 | **Appartour** | Location appart | Alternative Airbnb (3% fees), maps, reviews |
 
 ---
@@ -145,9 +155,8 @@
 
 ## 🎓 Parcours
 
-- **Holberton School — Fullstack** *(2023-2024)* : C, Python OOP, Shell, web (HTML/CSS/JS/React), Docker.
-- **Holberton School — Cybersécurité** *(2024-2025)* : pentesting, Kali Linux, sécurité réseau & applicative.
-- **Développeur Fullstack Freelance** *(2025 → présent)* : 10+ apps en prod, gestion complète dev → deploy → DNS → SEO → maintenance, collaboration en équipe sur 4 projets.
+- 🎓 **Holberton School — Développeur Fullstack** *(2023 → 2026)* : **fraîchement diplômé en 2026**. C & programmation bas niveau, Python OOP, Shell, web (HTML/CSS/JS/React), Docker, puis spécialisation fullstack JS/TS.
+- 💼 **Développeur Fullstack Freelance** *(2025 → présent)* : 10+ apps en prod, gestion complète dev → deploy → DNS → SEO → maintenance, collaboration en équipe sur 4 projets.
 
 ---
 
