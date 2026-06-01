@@ -1,247 +1,170 @@
-# 🎯 Hey ! Moi c'est Samy Ajouid 👨‍💻
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200"/>
-</div>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrSamy91&color=ff6b6b&style=for-the-badge&label=STALKERS)
-[![GitHub followers](https://img.shields.io/github/followers/MrSamy91?style=for-the-badge&color=orange&labelColor=black)](https://github.com/MrSamy91)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Samy%20Ajouid&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=D%C3%A9veloppeur%20Fullstack%20Next.js%20%C2%B7%20TypeScript&descSize=20&descAlignY=62"/>
+
+### [🌐 Voir mon portfolio → **samy-dev.fr**](https://samy-dev.fr)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-samy--dev.fr-FF0080?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7928CA)](https://samy-dev.fr)
+[![Profile Views](https://komarev.com/ghpvc/?username=MrSamy91&color=ff0080&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MrSamy91)
+[![GitHub followers](https://img.shields.io/github/followers/MrSamy91?style=for-the-badge&color=7928CA&labelColor=black)](https://github.com/MrSamy91)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-ajouid-5779772b7)
 
 </div>
 
----
-
-## 🚀 Développeur Full-Stack & Passionné de Tech
-
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔥 **Développeur Full-Stack** spécialisé en **Next.js** & **TypeScript**
-- 🎓 **Holberton School Alumni** - Formation intensive en développement
-- 🌍 **Basé en France** 🇫🇷 - Travail en télétravail & sur site
-- 💼 **Freelance disponible** pour projets web innovants
-- 🔐 **En formation cybersécurité** - Sécurisation d'applications
-- ☕ **Alimenté par** : Café, crypto news & memes de dev
-- 🎯 **Mission** : Créer des applications web performantes et sécurisées
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-  <p><i>Moi quand TypeScript compile sans erreur du premier coup</i></p>
-</div>
+> **190 000+ lignes de code · 1 035 commits · 28 repos · 10+ apps en production** — le tout sur 19 mois.
 
 ---
 
-## 🛠️ Ma Stack Technique (Mon Arsenal de Destruction Massive)
+## 🚀 À propos
 
-<div align="center">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🎨 Frontend Moderne
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- 🔭 Développeur **fullstack** spécialisé **Next.js / React / TypeScript**, du design system jusqu'à la prod.
+- 🏗️ Je construis des **produits complets de A à Z** : architecture, BDD, API type-safe, front, paiement, déploiement, SEO, maintenance.
+- 🎓 Formé à **Holberton School** (fullstack + module cybersécurité), puis autodidacte intensif.
+- 💼 **Freelance** — j'ai livré pour 8 secteurs : restaurants, salons, VTC, immobilier, associations, startups…
+- 🧱 Dernier gros morceau : **BookingFlow**, un SaaS multi-tenant (44 models Prisma, 21 routers tRPC, paiement Stripe Connect, temps réel).
+- 📍 Région parisienne (92) 🇫🇷 · télétravail & sur site.
+
+---
+
+## 🛠️ Stack technique
+
+**Core**
+
+![Next.js](https://img.shields.io/badge/-Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### ⚡ Backend & Base de Données
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+**Backend & Data**
 
-### 🔐 Auth & Paiements  
-![Better Auth](https://img.shields.io/badge/-Better_Auth-FF6B6B?style=for-the-badge)
-![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC%2011-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query%20v5-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma%207-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%2F%20Neon-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-### 🔧 Outils & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Auth · Paiement · Temps réel**
+
+![BetterAuth](https://img.shields.io/badge/-BetterAuth-FF6B6B?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/-Stripe%20Connect-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Liveblocks](https://img.shields.io/badge/-Liveblocks-FF7C52?style=for-the-badge)
+
+**Outils & DevOps**
+
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🎓 Formation & Apprentissage
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+**Aussi dans la besace** *(formation & polyvalence)*
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-</div>
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
-## 🎪 Mes Projets Phares (Mes Bébés Digitaux)
+## 📦 Projets phares
 
-### 🛒 **QuickShop** - *E-commerce de Nouvelle Génération*
-> Plateforme e-commerce complète avec tout ce qu'il faut pour vendre comme un boss !
-- 💳 **Paiements sécurisés** avec Stripe (parce que l'argent c'est sacré)
-- 📊 **Dashboard admin** pour gérer l'inventaire comme un pro
-- 🛡️ **Auth sécurisée** avec Better-Auth
-- ⚡ **Tech Stack** : Next.js, TypeScript, MongoDB, Prisma, Tailwind CSS
-- 🎯 **Status** : En cours de dev (bientôt prêt à conquérir le monde !)
+### 🗓️ BookingFlow — SaaS multi-tenant *(privatisations resto & événementiel)* 🔒
+`Next.js 16 · tRPC 11 · TanStack Query v5 · Prisma 7 · PostgreSQL · Stripe Connect · Liveblocks`
 
-### 💇‍♀️ **Cophairstyle** - *Réservation pour Coiffeurs*
-> Parce que prendre RDV chez le coiffeur ne devrait pas être un calvaire !
-- 📅 **Système de réservation** intelligent 
-- 💰 **Paiements intégrés** pour les acomptes
-- 👨‍💼 **Gestion clients** et historique
-- 🚀 **Status** : Livré et fonctionnel !
+> **179 commits · 20 776 LOC · 44 models · 28 enums · 21 routers tRPC**
 
-### 🚗 **VTC-Website** - *Transport avec Style*
-> Site de réservation pour VTC avec une interface qui roule !
-- 🗺️ **Réservation de trajets** en temps réel
-- 💸 **Calcul de prix automatique** 
-- 📱 **Interface responsive** pour mobile
-- ✅ **Status** : Livré et sur les routes !
+- 📅 Calendrier intelligent (jour / semaine / mois, heatmap, drag & drop)
+- 📄 Devis PDF (TVA auto) + **signature électronique conforme eIDAS**
+- 💳 Paiement **Stripe Connect** (split payments) + abonnements STARTER / BUSINESS / ENTERPRISE
+- 🤝 Collaboration **temps réel** (curseurs partagés, présence — Liveblocks)
+- 🤖 Smart Booking Assistant (parsing email IA) · conformité **RGPD** · portail client + widget externe
 
-### 🍽️ **Esplanade** - *Vitrine Restaurant Premium*
-> Site vitrine pour restaurant avec un SEO qui fait saliver Google !
-- 🔍 **SEO optimisé** pour être n°1 sur les recherches
-- 📱 **Design responsive** qui donne faim
-- 🎨 **Interface élégante** digne d'un restaurant étoilé
-- ⏳ **Status** : En finition (bientôt en ligne !)
+### 🍽️ Esplanade — Plateforme de gestion restaurant
+`Next.js 16 · Prisma · Tiptap · Cloudinary · Chart.js`
 
-### 📦 **StockPilot** - *Gestion de Stock Intelligente*
-> Application de gestion de stock avec OCR intégré (la magie de l'IA !)
-- 🤖 **OCR automatique** pour scanner les PDFs de produits
-- 📊 **Analytics** et tableaux de bord
-- 🔄 **Gestion automatisée** des stocks
-- 🚧 **Status** : En développement (l'IA apprend encore !)
+> **148 commits · 30 864 LOC · 20 models** — mon plus gros projet en volume
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
-  <p><i>Quand tous mes projets passent en production sans bug</i></p>
-</div>
+- Menu dynamique (80 plats), blog rich text, programme de fidélité multi-paliers
+- Événements & réservations, campagnes email, QR codes clients, avis modérés, dashboard analytics
+
+### 📦 Livraison Express — Marketplace P2P *(PWA)*
+`Next.js 16 · PostgreSQL · Stripe Connect · Mapbox`
+
+- PWA installable & offline, paiement **escrow** via Stripe Connect
+- Géolocalisation temps réel (Mapbox), validation par PIN, photos géotaguées, KYC livreurs, gestion des litiges
+
+### 📖 Muzlife — Apprentissage du Coran *(projet d'équipe)*
+`Next.js 15 · Prisma 7 · BetterAuth · PostgreSQL`
+
+> **123 commits sur 139** — dev principal
+
+- Audio multi-récitateurs, modes d'étude (lecture / mémorisation / révision)
+- Suivi de progression, streaks & quiz, horaires de prière (API Aladhan)
+
+### Autres apps en production
+
+| Projet | Secteur | Highlights |
+|--------|---------|------------|
+| **Avantage Immobilier** | Immobilier | Annonces dynamiques, sync XML auto · 128 commits |
+| **Soft-Délice** | Traiteur e-commerce | tRPC, blog Tiptap, tests Vitest, Docker Compose |
+| **Quarter-Fusion** | Restaurant POS | Commandes + **imprimante thermique Epson WiFi** |
+| **Cophairstyle** | Salon de coiffure | Booking, fidélité, staff, analytics · 19 020 LOC |
+| **DevoirXP** | Gamification enfants | Points, **Web Push**, cron GitHub Actions |
+| **Appartour** | Location appart | Alternative Airbnb (3% fees), maps, reviews |
 
 ---
 
-## 📊 Mes Stats GitHub (Sans Triche, Promis !)
+## 📊 Mes stats GitHub
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSamy91&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=commits)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSamy91&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSamy91&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MrSamy91&theme=radical&hide_border=true)
 
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-  <p><i>Moi en train d'analyser pourquoi j'ai autant de repos JavaScript</i></p>
 </div>
 
 ---
 
-## 🎓 Mon Parcours (De Zéro à Hero)
+## 🎓 Parcours
 
-### 🏫 **Holberton School (2023-2024)** - *Formation Full-Stack*
-- 💻 **Bases solides** : C, Python, HTML, CSS, JavaScript
-- 🐚 **Shell scripting** - Automatiser tout parce que la flemme c'est la vie
-- 🗄️ **SQL** et bases de données
-- 📋 **Méthodologies** : Git, travail en équipe, projets pratiques
-
-### 🔐 **Holberton School (2024-2025)** - *Spécialisation Cybersécurité*
-- 🕵️ **Pentesting** et tests de sécurité
-- 🐧 **Kali Linux** - Mon nouveau terrain de jeu
-- 🛡️ **Sécurité réseau** et protection d'applications
-- 🎯 **Status** : En cours (j'apprends à être un hacker éthique !)
-
-### 💼 **Freelance (2025-Présent)** - *Développeur Full-Stack*
-- 🌐 **Sites vitrine** qui convertissent
-- 🛒 **E-commerce** qui vendent
-- 🤖 **Automatisation** pour gagner du temps
-- 📈 **Applications web** performantes
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" width="400"/>
-  <p><i>Moi après avoir résolu un bug de segfault en C</i></p>
-</div>
+- **Holberton School — Fullstack** *(2023-2024)* : C, Python OOP, Shell, web (HTML/CSS/JS/React), Docker.
+- **Holberton School — Cybersécurité** *(2024-2025)* : pentesting, Kali Linux, sécurité réseau & applicative.
+- **Développeur Fullstack Freelance** *(2025 → présent)* : 10+ apps en prod, gestion complète dev → deploy → DNS → SEO → maintenance, collaboration en équipe sur 4 projets.
 
 ---
 
-## 🎮 Mes Passions (Parce que Coder H24 c'est Pas Sain)
+## ⚡ Fun facts
 
-<div align="center">
-
-| 🔍 **Veille Tech** | ₿ **Crypto & DeFi** | 📈 **Finance** |
-|:---:|:---:|:---:|
-| *Toujours à l'affût des nouveautés* | *Blockchain enthusiast* | *Marchés & économie* |
-
-| 📚 **Littérature** | 🎮 **Gaming** | 🎵 **Musique** |
-|:---:|:---:|:---:|
-| *Classique & contemporain* | *RPG & Stratégie* | *Jazz pour coder* |
-
-| 🏛️ **Histoire** | 🧠 **Apprentissage** | ☕ **Café** |
-|:---:|:---:|:---:|
-| *Évolution des civilisations* | *Autodidacte dans l'âme* | *Mon carburant principal* |
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-</div>
+- 🦉 Night owl certifié : mes meilleures sessions, c'est **minuit → 6h du mat'**.
+- 📈 Mois record : **128 commits en octobre 2025** (oui, le café a souffert ☕).
+- 🧱 Mon plus gros schéma Prisma : **44 models, 28 enums** sur un seul projet.
+- 🦆 Rubber duck debugging officiellement homologué.
 
 ---
 
-## 🤝 Connectons-nous & Collaborons !
+## 🤝 Me contacter
 
 <div align="center">
 
-### 📬 **Moyens de Contact**
+### 👉 [Découvrez tout mon travail sur **samy-dev.fr**](https://samy-dev.fr) 👈
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-samy--dev.fr-FF0080?style=for-the-badge&labelColor=7928CA)](https://samy-dev.fr)
 [![Email](https://img.shields.io/badge/-samy.ajouid@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samy.ajouid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-ajouid-5779772b7)
-[![WhatsApp](https://img.shields.io/badge/-Planifier_un_appel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33767605371?text=Bonjour%20Samy,%20je%20suis%20int%C3%A9ress%C3%A9%20par%20vos%20services%20de%20d%C3%A9veloppement.%20Pouvons-nous%20planifier%20un%20appel%20?)
+[![WhatsApp](https://img.shields.io/badge/-Planifier%20un%20appel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33767605371)
 
-### 💼 **Services Disponibles**
-- 🌐 **Sites vitrine** modernes et optimisés SEO
-- 🛒 **E-commerce** avec paiements intégrés
-- 📱 **Applications web** sur mesure
-- 🔧 **Automatisation** et outils métier
-- 🛡️ **Audit sécurité** et conseils
+**Disponible pour vos projets web — sites vitrine SEO, e-commerce, SaaS, apps sur mesure.**
 
 </div>
 
----
-
-## 🎯 Fun Facts About Me
-
-- 🐛 **Bug Hunting Level** : Sherlock Holmes du code
-- ☕ **Consommation café** : ~∞ tasses/jour (oui, j'ai un problème)
-- 🎵 **Playlist de dev** : Lo-fi hip hop en boucle infinie
-- 🌙 **Heures de code préférées** : 22h-02h (night owl mode ON)
-- 🎪 **Philosophie** : "Si ça marche en local, ça marchera en prod" (spoiler: non)
-- 🦆 **Debugging method** : Rubber duck debugging certifié
-
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
-</div>
-
----
-
-<div align="center">
-
-### 🎊 **Ma Citation Favorite**
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-
-*"Il y a 10 types de personnes : ceux qui comprennent le binaire et ceux qui ne le comprennent pas"*
-
----
-
-### ⭐ **Merci d'être passé !**
-
-**Si mes projets vous plaisent, n'hésitez pas à les star ! Ça fait toujours plaisir 🌟**
-
-*Développé avec ❤️, beaucoup de ☕ et une pointe de 🤪*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=120&section=footer"/>
 </div>
