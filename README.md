@@ -107,11 +107,21 @@
 - Audio multi-récitateurs, modes d'étude (lecture / mémorisation / révision)
 - Suivi de progression, streaks & quiz, horaires de prière (API Aladhan)
 
+### 🏠 Avantage Immobilier — Plateforme immobilière
+`Next.js 16 · Prisma · PostgreSQL/Neon · Resend · Framer Motion`
+
+> **128 commits** *(112 de moi — dev principal)* · synchronisation XML automatisée
+
+- 🏘️ Annonces dynamiques : vente, location, gestion locative
+- 🔄 **Synchronisation XML automatique** des annonces (flux portails immo)
+- 🔎 Filtres avancés & recherche multicritères
+- ✉️ Formulaire de contact + emails transactionnels (Resend)
+- 📈 Suivi de trafic Google Analytics 4 · animations Framer Motion
+
 ### Autres apps en production
 
 | Projet | Secteur | Highlights |
 |--------|---------|------------|
-| **Avantage Immobilier** | Immobilier | Annonces dynamiques, sync XML auto · 128 commits |
 | **Soft-Délice** | Traiteur e-commerce | tRPC, blog Tiptap, tests Vitest, Docker Compose |
 | **Quarter-Fusion** | Restaurant POS | Commandes + **imprimante thermique Epson WiFi** |
 | **Cophairstyle** | Salon de coiffure | Booking, fidélité, staff, analytics · 19 020 LOC |
