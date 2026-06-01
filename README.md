@@ -84,16 +84,22 @@
 - 🤝 Collaboration **temps réel** (curseurs partagés, présence — Liveblocks)
 - 🤖 Smart Booking Assistant (parsing email IA) · conformité **RGPD** · portail client + widget externe
 
-### 🍽️ Esplanade — Plateforme de gestion restaurant
-`Next.js 16 · Prisma · Tiptap · Cloudinary · Chart.js`
+### 🍽️ Esplanade — Site du restaurant L'Esplanade (Clichy) + back-office sur mesure
+`Next.js 16 · Prisma · Tiptap · Cloudinary · IA`
+
+[![Site](https://img.shields.io/badge/🔗%20Voir%20le%20site-esplanadeclichy.com-22C55E?style=flat-square)](https://www.esplanadeclichy.com)
 
 > **148 commits · 30 864 LOC · 20 models** — mon plus gros projet en volume
 
-- Menu dynamique (80 plats), blog rich text, programme de fidélité multi-paliers
-- Événements & réservations, campagnes email, QR codes clients, avis modérés, dashboard analytics
+- 🌐 Site officiel du restaurant : **menus dynamiques** & **pages de blog dynamiques**, pilotés depuis un back-office complet
+- 🚀 **Outil SEO maison** : **scoring en temps réel** de chaque page pendant l'édition
+- 🤖 **Audit IA** des pages selon les **critères Google actuels** (référentiel mis à jour en continu)
+- 🛠️ Back-office : fidélité multi-paliers, événements, campagnes email, QR codes, avis modérés, analytics
 
 ### 🧁 Soft-Délice — E-commerce traiteur & pâtisserie
 `Next.js 16 · tRPC 11 · TanStack Query v5 · Prisma 7 · PostgreSQL · Stripe · Vitest`
+
+[![Site](https://img.shields.io/badge/🔗%20Voir%20le%20site-softdelice.fr-22C55E?style=flat-square)](https://softdelice.fr)
 
 > **32 commits · 12 models** — ma stack la plus récente & industrialisée
 
@@ -101,13 +107,13 @@
 - 📝 Blog avec éditeur rich text **Tiptap**
 - ✅ Architecture **testée** (Vitest unit + intégration), dev local **dockerisé** (Docker Compose)
 
-### 🎮 DevoirXP — Gamification des devoirs *(enfants)*
+### 🎮 DevoirXP — Gamification de tâches & objectifs *(nom de travail)*
 `Next.js 15 · Prisma · PostgreSQL · Web Push · GitHub Actions`
 
 > **8 models** — notifications push + tâches planifiées automatisées
 
-- 👨‍👩‍👧 Rôles **parent / enfant**, attribution de points & récompenses
-- 🔔 Notifications **Web Push** (rappels de devoirs)
+- 🎯 Transforme les **tâches / choses à faire** en jeu : points, niveaux & récompenses
+- 🔔 Notifications **Web Push** (rappels automatiques)
 - ⏰ Tâches planifiées via **cron GitHub Actions** · dashboards de suivi (Recharts)
 
 ### 📖 Muzlife — Apprentissage du Coran *(projet d'équipe)*
@@ -120,6 +126,8 @@
 
 ### 🏠 Avantage Immobilier — Site vitrine pour agence immobilière
 `Next.js 16 · Prisma · PostgreSQL/Neon · Resend · Framer Motion`
+
+[![Site](https://img.shields.io/badge/🔗%20Voir%20le%20site-avantage--immobilier.fr-22C55E?style=flat-square)](https://avantage-immobilier.fr)
 
 > **128 commits** *(112 de moi — dev principal)* · synchronisation XML automatisée
 
