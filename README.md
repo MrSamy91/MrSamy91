@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://www.samy-dev.fr">
-    <img src="./assets/profile-header.svg" alt="Samy Ajouid — développeur full-stack à dominante frontend" width="100%">
+    <img src="./assets/profile-header.svg" alt="Samy Ajouid — développeur full-stack" width="100%">
   </a>
 </p>
 
-Je conçois des interfaces React et Next.js, puis je construis ce qui les fait fonctionner : données, authentification, paiements, emails, tests et mise en production. Je travaille avec une sensibilité frontend marquée, sans perdre la vision complète du produit.
+Je conçois des interfaces React et Next.js, puis je construis ce qui les fait fonctionner : données, authentification, paiements, emails, tests et mise en production. Je garde une vision complète du produit, du besoin initial à la maintenance.
 
 **[Portfolio](https://www.samy-dev.fr)** · **[Projets](https://www.samy-dev.fr/projets)** · **[Profil recruteur](https://www.samy-dev.fr/recruteurs)** · **[Contact](https://www.samy-dev.fr/contact)**
 
@@ -17,12 +17,32 @@ Je conçois des interfaces React et Next.js, puis je construis ce qui les fait f
 
 ## Projets sélectionnés
 
-| Projet | Ce que le produit résout | Situation |
-| --- | --- | --- |
-| **[BookingFlow](https://www.samy-dev.fr/projets/bookingflow)** | Centralise les demandes de privatisation, devis, paiements et consignes d’équipe. | Bêta privée utilisée par 3 établissements pilotes. |
-| **[Kaicet](https://www.samy-dev.fr/projets/kaicet)** | Guide la clôture de caisse de plusieurs restaurants jusqu’au bilan signé. | Parcours métier fonctionnel, produit en développement. |
-| **[Soft-Délice](https://www.samy-dev.fr/projets/soft-delice)** | Relie une vitrine de traiteur au catalogue, au panier et au suivi des commandes. | En ligne. |
-| **[Avantage Immobilier](https://www.samy-dev.fr/projets/avantage-immobilier)** | Synchronise les annonces d’une agence et transforme la recherche en prise de contact contextualisée. | En ligne, développé en collaboration avec Scandere. |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.samy-dev.fr/projets/bookingflow"><img src="./assets/projects/bookingflow.webp" alt="Aperçu de BookingFlow" width="100%"></a>
+      <br><strong><a href="https://www.samy-dev.fr/projets/bookingflow">BookingFlow</a></strong><br>
+      Centralise les demandes de privatisation, devis, paiements et consignes d’équipe. Bêta privée utilisée par 3 établissements pilotes.
+    </td>
+    <td width="50%">
+      <a href="https://www.samy-dev.fr/projets/kaicet"><img src="./assets/projects/kaicet.webp" alt="Identité visuelle de Kaicet" width="100%"></a>
+      <br><strong><a href="https://www.samy-dev.fr/projets/kaicet">Kaicet</a></strong><br>
+      Guide la clôture de caisse de plusieurs restaurants jusqu’au bilan signé. Parcours métier fonctionnel, produit en développement.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.samy-dev.fr/projets/soft-delice"><img src="./assets/projects/soft-delice.webp" alt="Aperçu de Soft-Délice" width="100%"></a>
+      <br><strong><a href="https://www.samy-dev.fr/projets/soft-delice">Soft-Délice</a></strong><br>
+      Relie une vitrine de traiteur au catalogue, au panier et au suivi des commandes. Le produit est en ligne.
+    </td>
+    <td width="50%">
+      <a href="https://www.samy-dev.fr/projets/avantage-immobilier"><img src="./assets/projects/avantage-immobilier.webp" alt="Aperçu d’Avantage Immobilier" width="100%"></a>
+      <br><strong><a href="https://www.samy-dev.fr/projets/avantage-immobilier">Avantage Immobilier</a></strong><br>
+      Synchronise les annonces d’une agence et transforme la recherche en prise de contact. Développé en collaboration avec Scandere.
+    </td>
+  </tr>
+</table>
 
 BookingFlow est né d’un besoin réel autour des réservations de groupe. J’ai initié le produit et construit sa première version full-stack avant de poursuivre son développement avec Abdel Samad, au contact des établissements pilotes.
 
