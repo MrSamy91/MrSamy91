@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
   <title id="title">Samy Ajouid</title>
-  <desc id="description">Développeur full-stack à dominante frontend. Du sens, du caractère, du code.</desc>
+  <desc id="description">Développeur full-stack. Du sens, du caractère, du code.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#101216"/>
@@ -24,10 +24,9 @@
   <path d="M0 1H1280M0 359H1280" stroke="#343944"/>
   <path d="M72 301H615" stroke="#343944"/>
   <g font-family="Arial, Helvetica, sans-serif" fill="#f5f3ed">
-    <text x="72" y="104" font-size="68" font-weight="700" letter-spacing="-4">samy</text>
-    <rect x="230" y="64" width="15" height="15" fill="#f5f3ed"/>
+    <text x="72" y="104" font-size="68" font-weight="700" letter-spacing="-4">samy.</text>
     <text x="72" y="174" font-size="39" font-weight="400" letter-spacing="-1.6">Du sens. Du caractère. Du code.</text>
-    <text x="72" y="226" font-size="18" fill="#b8bec9">Développeur full-stack · dominante frontend</text>
+    <text x="72" y="226" font-size="18" fill="#b8bec9">Développeur full-stack</text>
     <text x="72" y="326" font-size="14" fill="#929aa8">Paris · télétravail privilégié · samy-dev.fr</text>
   </g>
   <g clip-path="url(#frame)" filter="url(#shadow)">
